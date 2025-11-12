@@ -11,7 +11,6 @@ const roleIconMap = {
     admin: "user-gear",
     mod: "user-shield",
     trial: "user-lock",
-    member: "member",
     dev: "code"
 };
 
