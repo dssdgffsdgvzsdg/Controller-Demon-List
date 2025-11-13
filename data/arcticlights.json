@@ -1,0 +1,42 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": [],
+    "verifier": "Skarro",
+    "verification": "https://www.youtube.com/watch?v=0etx8_uiO3w",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "12 Kelvin",
+            "link": "https://www.youtube.com/watch?v=R2a9x7LUdOs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Brandon Larkin",
+            "link": "https://www.youtube.com/watch?v=irAMhKpIU58",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheSlammed",
+            "link": "https://www.youtube.com/watch?v=MrM7J8amHv8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ItzElectrix",
+            "link": "https://www.youtube.com/watch?v=9g4oPra0zqI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tria",
+            "link": "https://youtu.be/__Zq2Z4F9kw?si=CtTjPTb98v8mKjXN",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
