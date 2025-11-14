@@ -1,58 +1,34 @@
 {
-    "id": 91180835,
-    "name": "Atomic Cannon MK II",
-    "author": "Lieb",
-    "creators": ["Giron", "Lieb"],
-    "verifier": "SerVax",
-    "verification": "https://www.youtube.com/watch?v=X0zPCMi8sFw",
+    "id": 38655495,
+    "name": "Plasma Pulse Finale",
+    "author": "xSmokes",
+    "creators": [],
+    "verifier": "Farzz",
+    "verification": "https://www.youtube.com/watch?v=fgfMKLrNbXk",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Cuatrocientos",
-            "link": "https://www.youtube.com/watch?v=ls-wAomsOzM",
+            "user": "Joshua28",
+            "link": "https://www.youtube.com/watch?v=CWlZ6TmCa9E",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "stillsouless",
-            "link": "https://www.youtube.com/watch?v=U84ii4Erb_k",
+            "user": "Skarro",
+            "link": "https://www.youtube.com/watch?v=HeyxXgg-nVU",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "tiredfish",
-            "link": "https://www.youtube.com/watch?v=P4Jf131IRAE",
+            "user": "ItzElectrix",
+            "link": "https://www.youtube.com/watch?v=v9yJu24cMVQ",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "ralex",
-            "link": "https://www.youtube.com/watch?v=P8j1hxm50jM",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Laser",
-            "link": "https://www.youtube.com/watch?v=Y-2Rf4ubaFI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Kole",
-            "link": "https://youtu.be/BltKbQK3Vrw?si=hQoOu3_H7cvLZ5uP",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Serpentical",
-            "link": "https://youtu.be/1mYY5tbF5hY?si=3pZYS8bTgMIpfUJe",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Slaughter",
-            "link": "https://youtu.be/EFqRdISjvFU?si=NQo7BRMJvtm9Z2xF",
+            "user": "12 Kelvin",
+            "link": "https://www.youtube.com/watch?v=bMlyN2Cu2xw",
             "percent": 100,
             "hz": 360
         }
