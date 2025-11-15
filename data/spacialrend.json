@@ -1,0 +1,18 @@
+{
+    "id": 40292513,
+    "name": "Spacial Rend",
+    "author": "Eclipsed",
+    "creators": [],
+    "verifier": "TheSlammed",
+    "verification": "https://www.youtube.com/watch?v=fypJgw77XJw",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "BrightBird",
+            "link": "https://www.youtube.com/watch?v=oMOpRN-xbcQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
