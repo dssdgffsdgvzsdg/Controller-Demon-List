@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=mb4lg9k_eQ0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Tria",
+            "link": "https://www.youtube.com/live/PqMCU60m-Fc?si=2zxqL1GfEgqiY6dB",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
