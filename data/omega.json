@@ -1,0 +1,24 @@
+{
+    "id": 59706883,
+    "name": "Omega",
+    "author": "MindCap",
+    "creators": [],
+    "verifier": "ItzElectrix",
+    "verification": "https://www.youtube.com/watch?v=W5tFEZzngyQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TheSlammed",
+            "link": "https://www.youtube.com/watch?v=ozsqfNFCdpM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://www.youtube.com/watch?v=DCxzXtH48k8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
