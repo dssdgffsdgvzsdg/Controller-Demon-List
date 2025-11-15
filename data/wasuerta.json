@@ -1,0 +1,30 @@
+{
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "augii",
+    "creators": [],
+    "verifier": "Skarro",
+    "verification": "https://www.youtube.com/watch?v=v8mq5GNEOHg",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "12 Kelvin",
+            "link": "https://www.youtube.com/watch?v=1__tHD48aug",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "attrixia",
+            "link": "https://www.youtube.com/watch?v=2YNUEExl2p0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Eyeballin",
+            "link": "https://www.youtube.com/watch?v=3F46EkEoIic",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
