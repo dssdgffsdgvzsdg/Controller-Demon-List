@@ -1,0 +1,30 @@
+{
+    "id": 42117203,
+    "name": "Hyper Paracosm",
+    "author": "iIiViRuZiIi",
+    "creators": [],
+    "verifier": "Skarro",
+    "verification": "https://www.youtube.com/watch?v=s7w3ztJrhF4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "cxn",
+            "link": "https://www.youtube.com/watch?v=o8NV9eng_4g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheSlammed",
+            "link": "https://www.youtube.com/watch?v=CB2yOEWnCvQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tria",
+            "link": "https://youtu.be/LpkIjPfeRho?si=XgNY4kUzaZ5JtiT3",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
