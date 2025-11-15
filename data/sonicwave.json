@@ -1,0 +1,42 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Sunix",
+    "creators": ["Cyclic"],
+    "verifier": "Skarro",
+    "verification": "https://www.youtube.com/watch?v=HCa1WS0bxjk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Brandon Larkin",
+            "link": "https://www.youtube.com/watch?v=VXDwrsjKEx0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ItzElectrix",
+            "link": "https://www.youtube.com/watch?v=gcwwdgQte1k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheSlammed",
+            "link": "https://www.youtube.com/watch?v=bdeen0OS4kk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tria",
+            "link": "https://www.youtube.com/watch?v=5faAgquS4go",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "vipexx",
+            "link": "https://youtu.be/bzvVu1b7GL0?si=ISIdoPEMO8ZRknRt",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
