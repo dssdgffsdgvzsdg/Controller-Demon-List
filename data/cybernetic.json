@@ -1,0 +1,30 @@
+{
+    "id": 66291197,
+    "name": "Cybernetic Crescent",
+    "author": "ViPriN",
+    "creators": [],
+    "verifier": "Skarro",
+    "verification": "https://www.youtube.com/watch?v=eY_Y4pwuyP4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Brandon Larkin",
+            "link": "https://www.youtube.com/watch?v=DaTjxSLOtz0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ItzElectrix",
+            "link": "https://www.youtube.com/watch?v=8l7_BKOFJnU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Javei23",
+            "link": "https://www.youtube.com/watch?v=JQSOneBHRqI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
