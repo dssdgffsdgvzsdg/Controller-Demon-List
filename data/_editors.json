@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/@ItzElectrix12"
     },
     {
+        "role": "owner",
+        "name": "vipexx",
+        "link": "https://www.youtube.com/@vipexx_1"
+    },
+    {
         "role": "admin",
         "name": "attrixia",
         "link": "https://www.youtube.com/channel/UCuIjp9tid4fAwzPkqXkvlOg"
@@ -28,10 +33,5 @@
         "role": "admin",
         "name": "Tria",
         "link": "https://www.youtube.com/@nickTria_"
-    },
-    {
-        "role": "admin",
-        "name": "vipexx",
-        "link": "https://www.youtube.com/@vipexx_1"
     }
 ]
