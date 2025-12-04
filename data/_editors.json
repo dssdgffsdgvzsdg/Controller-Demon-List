@@ -31,7 +31,17 @@
     },
     {
         "role": "admin",
+        "name": "Skarro",
+        "link": "https://www.youtube.com/skarrogdu"
+    },
+    {
+        "role": "admin",
         "name": "Tria",
         "link": "https://www.youtube.com/@nickTria_"
+    },
+    {
+        "role": "admin",
+        "name": "12 Kelvin",
+        "link": "https://www.youtube.com/channel/UCNWHT6edJ8lTDO4QKJrUIkA"
     }
 ]
