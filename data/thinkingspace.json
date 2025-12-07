@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "235236",
     "records": [
+        {
+            "user": "TheSlammed",
+            "link": "https://youtu.be/wQ4VBWGhhaw",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
