@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "vipexx",
+            "link": "https://youtu.be/EUb_YK6aqzc?si=GZW3L6rtDNMBVy6c",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
